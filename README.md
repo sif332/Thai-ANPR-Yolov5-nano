@@ -1,10 +1,11 @@
 This is Thai Automatic number-plate recognition power by Yolov5 nano. There are 4 models work together.
 
-Car object detection 640px (1 Class, detect car in the image)
-License plate object detection 640px (1 Class, detect license plate in the image)
-Letter object detection 640px (2 Classes, letter and province, detect x-y coordinate of alphabets on the license plate image)
-Letter classification 224px (48 Classes, 38 alphabets and 10 numbers, classify alphabet images)
-The main folder is named "yolo" Please "cd" to "yolo" and type "pip install requirements.txt" to install requirement library.
+1. Car object detection 640px (1 Class, detect car in the image)
+2. License plate object detection 640px (1 Class, detect license plate in the image)
+3. Letter object detection 640px (2 Classes, letter and province, detect x-y coordinate of alphabets on the license plate image)
+4. Letter classification 224px (48 Classes, 38 alphabets and 10 numbers, classify alphabet images)
+
+The main folder is named "yolov5" Please "cd" to "yolov5" and type "pip install requirements.txt" to install requirement library.
 
 "run_model.ipynb" is full of analysis tools and code comment Please try to understand code in the file "run_model.ipynb" first
 
