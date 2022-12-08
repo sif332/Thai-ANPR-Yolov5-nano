@@ -18,4 +18,7 @@ Since yolov5 classification model has no auto resize, we need to resize by ourse
 
 if you need openCV to access file in your new folder, please make sure that you have already create that new folder otherwise openCV will give you an error.
 
+I recommend you to download this zip file instead. It has dataset and I've already create folders that output images will go in so that openCV won't give an error.
+https://drive.google.com/file/d/1wI20-h89p8Tx0FKqaBJtHugBIT8ZlAUr/view?usp=share_link
+
 if you have any question, you can contact me via "sif332@gmail.com".
